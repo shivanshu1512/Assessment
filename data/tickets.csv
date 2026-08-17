@@ -1,0 +1,51 @@
+id,subject,body,category
+1,Invoice not received,Hi I have not received my invoice for last month. Can you please send it to my email? I need it for accounting purposes.,Billing
+2,Double charge on my account,I was charged twice for my subscription this month. Please refund one of the payments immediately.,Billing
+3,Unable to update payment method,When I try to update my credit card details on the portal it gives an error saying invalid card number but the card is valid.,Billing
+4,Refund request for cancelled subscription,I cancelled my subscription 3 days ago but I have not received any refund yet. It has been more than 72 hours.,Billing
+5,Billing cycle confusion,I signed up on the 15th but I am being charged from the 1st. My billing cycle seems wrong please fix this.,Billing
+6,Tax invoice required,Our company requires a GST compliant tax invoice for all payments. Can you provide that?,Billing
+7,Overcharged this quarter,The amount charged this quarter does not match the plan I am on. I am on the basic plan but was charged premium rates.,Billing
+8,Payment failed but money deducted,My payment failed on checkout but the money was still deducted from my bank account. Please help.,Billing
+9,Need receipt for reimbursement,I need an official receipt for my purchase last week for expense reimbursement at my company.,Billing
+10,Discount not applied,I had a coupon code but the discount was not applied at checkout. I still paid full price.,Billing
+11,App crashes on startup,The mobile app crashes every time I try to open it. It shows a white screen and then closes automatically. I have tried reinstalling.,Technical
+12,API rate limit exceeded,We keep hitting the API rate limit even though we are well within our plan limits. Something seems wrong on your end.,Technical
+13,Login not working,I cannot login to my account. It keeps saying invalid credentials even though I am entering the correct password.,Technical
+14,Data export failing,When I try to export my data as CSV it gets stuck at 0 percent and never completes. I have tried multiple times on different browsers.,Technical
+15,Integration with Slack broken,Our Slack integration stopped working after the update last week. We are no longer receiving notifications.,Technical
+16,Dashboard not loading,The analytics dashboard takes forever to load and then shows a blank page. This started happening yesterday.,Technical
+17,2FA not sending code,I enabled two-factor authentication but I am not receiving the verification code on my phone. Please help.,Technical
+18,File upload size limit,I am trying to upload a 50MB file but it says maximum file size is 10MB. Is there any way to increase this?,Technical
+19,Webhook not triggering,Our webhook endpoint is configured correctly but it is not being triggered when events happen.,Technical
+20,Search functionality broken,The search bar returns no results for anything even for things I know exist in the system.,Technical
+21,Leave application process,I want to apply for 5 days of casual leave next month. Can you tell me the process to submit a leave request?,HR
+22,Salary slip not received,I have not received my salary slip for this month. Please send it to my official email address.,HR
+23,Work from home policy query,Can you please share the updated work from home policy? I want to know how many days per week I am allowed to work remotely.,HR
+24,PF withdrawal query,I want to know the process for withdrawing my PF balance. I am leaving the company next month.,HR
+25,Performance review schedule,When is the performance review cycle starting this quarter? I want to prepare in advance.,HR
+26,Joining formalities incomplete,I joined the company last week but I have not received my laptop or access credentials yet.,HR
+27,Medical insurance claim,I need help filing a medical insurance claim. My family member was hospitalized last month.,HR
+28,Training schedule request,Is there any upcoming technical training or upskilling program I can enroll in?,HR
+29,Office access card issue,My access card stopped working. I cannot enter the office. Please issue a new one or fix the existing one.,HR
+30,Appraisal letter not issued,My appraisal was finalized 2 months ago but I still have not received the official appraisal letter.,HR
+31,Product roadmap enquiry,Can you share the product roadmap for Q3? I want to know what features are coming up.,General
+32,Partnership proposal,We are interested in a partnership with your company. Who should we contact to discuss this further?,General
+33,Feature request,I would love to see dark mode in the application. Many users have requested this as well.,General
+34,Account deletion request,I want to permanently delete my account and all associated data. Please tell me how to do this.,General
+35,How to upgrade plan,I am currently on the free plan and want to upgrade to pro. What are the benefits and how do I switch?,General
+36,Referral program details,Do you have a referral program? I want to refer my colleagues and would like to know how it works.,General
+37,Data privacy question,How is my personal data stored and processed? I want to understand your data privacy practices.,General
+38,Language support query,Does your platform support languages other than English? Specifically I need Hindi and Spanish.,General
+39,Mobile app availability,Is there a mobile app available for Android? I could not find it on the Play Store.,General
+40,Documentation request,Can you share the complete API documentation? The existing docs seem incomplete and outdated.,General
+41,Urgent payment failed system down,The payment system is completely down and I cannot process any transactions. This is urgent please help immediately.,Billing
+42,App not working at all broken,The entire application is not working. None of the features are loading. This is a critical issue.,Technical
+43,Need salary details urgent,Urgent requirement I need my salary certificate today for a loan application at the bank.,HR
+44,Subscription plan comparison,Can you explain the difference between the basic pro and enterprise plans in detail?,General
+45,Server error 500 on checkout,Getting a 500 internal server error every time I try to checkout. This is preventing all our sales.,Technical
+46,GST number update on invoice,I need to update the GST number on all future invoices. How do I do this from my account settings?,Billing
+47,Password reset email not coming,I requested a password reset but the email never arrived. I checked spam also.,Technical
+48,Maternity leave policy,I am expecting and want to understand the maternity leave policy and how to apply for it.,HR
+49,Company newsletter subscription,I want to subscribe to your company newsletter to stay updated on new features and announcements.,General
+50,Report downloading issue,The monthly report is not downloading properly. It shows an error after 90 percent completion.,Technical
