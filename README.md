@@ -3,6 +3,10 @@
 > **Assessment Project** — Automatic routing of support tickets using Machine Learning  
 > **Author:** Shivanshu Shukla | **Stack:** Python · scikit-learn · TF-IDF · Streamlit
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://assessmentforbes.streamlit.app/)
+
+🚀 **Live App:** [https://assessmentforbes.streamlit.app/](https://assessmentforbes.streamlit.app/)
+
 ---
 
 ## 📌 Problem Statement
